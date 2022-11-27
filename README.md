@@ -4,12 +4,11 @@
 
 <div align=center>
 	<h3>:wave: 반갑습니다!</h3>
-	<div align=center>
-	<ul>
-		<li>:computer:아직 배울것이 많은 개발자 지망생입니다!</li>
-		<li>:heart_eyes:나만의 일을 찾기 위해 열심히 노력중 입니다</li>
-	</ul>
-	</div>
+	
+		<p>:computer:아직 배울것이 많은 개발자 지망생입니다!</p>
+		<p>:heart_eyes:나만의 일을 찾기 위해 열심히 노력중 입니다</p>
+
+
 </div>
 
 <br>
@@ -58,7 +57,7 @@
 	
 <br><br>
 
-<div aligh=center>
+<div align=center>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>     
 </div>
 
