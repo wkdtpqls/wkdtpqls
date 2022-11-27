@@ -4,10 +4,8 @@
 
 <div align=center>
 	<h3>:wave: 반갑습니다!</h3>
-	
-		<h5>:computer:아직 배울것이 많은 개발자 지망생입니다!</h5>
-		<h5>:heart_eyes:나만의 일을 찾기 위해 열심히 노력중 입니다</h5>
-
+	<p>:computer:아직 배울것이 많은 개발자 지망생입니다!</p>
+	<p>:heart_eyes:나만의 일을 찾기 위해 열심히 노력중 입니다</p>
 
 </div>
 
