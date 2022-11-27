@@ -21,6 +21,9 @@
   	<a href="https://wkdtpqls.github.io/HtmlCSSHardCoding/" target="_blank">
 		<img src="https://img.shields.io/badge/Resume-FF8800?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
+	<a href="https://wkdtpqls.github.io/" target=_blank>
+		<img src="https://img.shields.io/badge/Blog-09B3AF?style=flat&logo=Storyblok&logoColor=white" />
+	</a>
 </div>
   
 <br> 
