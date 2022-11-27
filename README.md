@@ -3,7 +3,7 @@
 </div>
 
 <div align=center>
-	<h3>:wave: 반갑습니다!</h3>
+	<h3>:wave: 반갑습니다! :wave:</h3>
 		<p>:computer:아직 배울것이 많은 개발자 지망생입니다!</p>
 		<p>:heart_eyes:나만의 일을 찾기 위해 열심히 노력중 입니다</p>
 	
